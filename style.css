@@ -61,4 +61,17 @@ body{
         margin: 0;
         text-align: center;
     }
-    
+
+  #username {
+    border: 1px solid blue;
+    padding: 5px;
+    margin-bottom: 1px;
+    border-radius: 3px;
+  }
+#password {
+    border: 1px solid blue;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+  }
+  
